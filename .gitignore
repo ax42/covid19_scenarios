@@ -5,3 +5,6 @@
 \.reports
 node_modules
 aux/data
+*.pyc
+*.swp
+.vscode/
